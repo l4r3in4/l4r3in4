@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **building tools**
 
-- 💌 reach me on dc **https://discordapp.com/users/l4r3in4/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
