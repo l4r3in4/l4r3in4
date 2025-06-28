@@ -2,7 +2,7 @@
 <h3 align="center">A cybersec enthusiast, Capture the flag player and Security Researcher.</h3>
 <img align="center" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
-
+Passionate about ethical hacking, vulnerability research, and software development.
 
 - 🔭 I’m currently working on a **malware simulation lab**
 
