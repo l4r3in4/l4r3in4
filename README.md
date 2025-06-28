@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **advanced vuln scanners**
+- 🔭 I’m currently working on a **malware simulation lab**
 
 - 🌱 I’m currently learning **exploit dev**
 
